@@ -31,4 +31,4 @@ configuration.path_log = "bitstampServerLog.txt"
 
 module.exports = configuration
 
-test = "my bad changed"
+test = "my bad changed, V2"
