@@ -1,9 +1,9 @@
 const version = "1.2.0"
 console.log("runServer.js", version)
 const configuration = require("./config.js")
-const BitstampGUIServer = require("bitstamp_trading_tools")
+const BitstampServer = require("bitstamp_trading_tools").BitstampServer
 
-server = new BitstampGUIServer(configuration.gui)
+server = new BitstampServer(configuration.gui)
 
 server.run()
 
