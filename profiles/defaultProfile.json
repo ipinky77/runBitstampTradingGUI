@@ -1,9 +1,0 @@
-{
-    "name": "give it a name",
-    "key": "add your bitstamp API key here",
-    "secret": "add your bitstamp API secret here",
-    "uniqueID": "add your subaccount unique id here, you'll find this under the Settings/sub accounts/active subaccounts directly underneath the account label",
-    "defaultProfile": true,
-    "defaultCrypto": "XRP",
-    "defaultCurrency": "USD"
-}
