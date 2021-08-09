@@ -3,7 +3,9 @@
     "server": "www.bitstamp.net",
     "ws_endpoint": "wss://ws.bitstamp.net",
     "debug": true,
+    "debugLevel": 1,
     "path_bot_thresholds": "thresholds.json",
+    "path_log": "bitstampBotLog.txt",
     "executeTrades": false,
     "heartBeat": 15,
     "thresholdIntervall": 2
