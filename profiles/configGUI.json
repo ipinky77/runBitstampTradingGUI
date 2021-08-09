@@ -1,0 +1,11 @@
+{
+    "name": "configGUI",
+    "server": "www.bitstamp.net",
+    "ws_endpoint": "wss://ws.bitstamp.net",
+    "debug": true,
+    "path_bot_thresholds": "thresholds.json",
+    "path_masks": "bitstampMasks.json",
+    "debugLevel": 2,
+    "path_log": "bitstampServerLog.txt",
+    "simulate": false
+}
