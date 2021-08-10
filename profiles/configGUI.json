@@ -5,7 +5,7 @@
     "debug": true,
     "debugLevel": 1,
     "path_bot_thresholds": "thresholds.json",
-    "path_masks": "bitstampMasks.json",
-    "path_log": "bitstampServerLog.txt",
+    "path_masks": "masks.json",
+    "path_log": "serverLog.txt",
     "simulate": false
 }
