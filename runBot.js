@@ -1,4 +1,4 @@
-const version = "2.0.1"
+const version = "2.0.5"
 console.log("runBot.js", version)
 const getProfiles = require("bitstamp_trading_tools/config.js")
 const BitstampBot = require("bitstamp_trading_tools/bitstampBot.js")
@@ -15,8 +15,6 @@ if (2 == arguments.length) {
 var bot
 
 getProfiles(__dirname, "BOT").then(profiles => {
-    console.log("profiles", profiles)
-    console.log("config", config)
     bot = new BitstampBot(profiles[config])
 
     runBot()
