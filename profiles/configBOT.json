@@ -1,5 +1,6 @@
 {
     "name": "configBOT",
+    "type": "BOT",
     "server": "www.bitstamp.net",
     "ws_endpoint": "wss://ws.bitstamp.net",
     "debug": true,
@@ -8,5 +9,9 @@
     "path_log": "botLog.txt",
     "executeTrades": false,
     "heartBeat": 15,
-    "thresholdIntervall": 2
+    "thresholdIntervall": 2,
+    "key": "add your bitstamp API key here",
+    "secret": "add your bitstamp API secret here",
+    "defaultCrypto": "XRP",
+    "defaultCurrency": "USD"
 }
