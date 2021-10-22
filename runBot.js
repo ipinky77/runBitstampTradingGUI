@@ -1,11 +1,12 @@
-const version = "2.0.5"
+const version = "2.0.6"
 console.log("runBot.js", version)
 const getProfiles = require("bitstamp_trading_tools/config.js")
 const BitstampBot = require("bitstamp_trading_tools/bitstampBot.js")
 var arguments = process.argv;
 
-var config = "configBOT"
+var config
 if (2 == arguments.length) {
+    config = 'defaultProfile'
     console.log(`We use default configuration "configBOT"`)
 
 } else {
