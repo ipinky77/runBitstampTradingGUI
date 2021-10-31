@@ -1,4 +1,4 @@
-const version = "2.0.6"
+const version = "2.0.8"
 console.log("runBot.js", version)
 const getProfiles = require("bitstamp_trading_tools/config.js")
 const BitstampBot = require("bitstamp_trading_tools/bitstampBot.js")

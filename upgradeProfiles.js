@@ -1,6 +1,6 @@
 // upgrade profiles
 
-const version = "2.0.5"
+const version = "2.0.8"
 console.log("upgradeProfiles", version)
 // Import the filesystem module
 const fs = require('fs');
