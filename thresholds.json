@@ -1,5 +1,5 @@
 {
     "high": 1.1,
     "low": 0.6,
-    "tradePrice": 1
+    "referenceTradePrice": 1.1979
 }
