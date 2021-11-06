@@ -1,0 +1,10 @@
+{
+    "name": "Trading Profile",
+    "type": "GUI",
+    "key": "your API key here",
+    "secret": "your API secret here",
+    "uniqueID": "sub account uniqueID here",
+    "defaultProfile": true,
+    "defaultCrypto": "XRP",
+    "defaultCurrency": "USD"
+}

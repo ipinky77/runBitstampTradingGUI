@@ -1,5 +1,5 @@
 {
-    "name": "configGUI",
+    "name": "main",
     "type": "GUI",
     "key": "your API key here",
     "secret": "your API secret here",
@@ -9,7 +9,7 @@
     "path_bot_thresholds": "thresholds.json",
     "path_masks": "masks.json",
     "debugLevel": 1,
-    "defaultProfile": true,
+    "mainAccount": true,
     "path_log": "bitstampServerLog.txt",
     "simulate": false,
     "defaultCrypto": "XRP",
