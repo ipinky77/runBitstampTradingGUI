@@ -3,15 +3,7 @@
     "type": "GUI",
     "key": "your API key here",
     "secret": "your API secret here",
-    "server": "www.bitstamp.net",
-    "ws_endpoint": "wss://ws.bitstamp.net",
-    "debug": true,
-    "path_bot_thresholds": "thresholds.json",
-    "path_masks": "masks.json",
-    "debugLevel": 1,
     "mainAccount": true,
-    "path_log": "bitstampServerLog.txt",
-    "simulate": false,
     "defaultCrypto": "XRP",
     "defaultCurrency": "USD"
 }

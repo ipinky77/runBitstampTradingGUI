@@ -6,5 +6,13 @@
     "uniqueID": "sub account uniqueID here",
     "defaultProfile": true,
     "defaultCrypto": "XRP",
-    "defaultCurrency": "USD"
+    "defaultCurrency": "USD",
+    "server": "www.bitstamp.net",
+    "ws_endpoint": "wss://ws.bitstamp.net",
+    "debug": true,
+    "path_bot_thresholds": "thresholds.json",
+    "path_masks": "masks.json",
+    "debugLevel": 1,
+    "path_log": "bitstampServerLog.txt",
+    "simulate": false
 }
