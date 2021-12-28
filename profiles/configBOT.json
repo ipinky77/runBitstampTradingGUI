@@ -1,5 +1,7 @@
 {
     "name": "configBOT",
+    "logToScreen": true,
+    "defaultProfile": true, 
     "type": "BOT",
     "server": "www.bitstamp.net",
     "ws_endpoint": "wss://ws.bitstamp.net",
